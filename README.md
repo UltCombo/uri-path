@@ -1,7 +1,6 @@
 # uri-path
 [![NPM version](https://badge.fury.io/js/uri-path.png)](https://npmjs.org/package/uri-path)
 [![Build Status](https://travis-ci.org/UltCombo/uri-path.png?branch=master)](https://travis-ci.org/UltCombo/uri-path)
-<!-- [![Dependency Status](https://david-dm.org/UltCombo/uri-path.png)](https://david-dm.org/UltCombo/uri-path) -->
 [![devDependency Status](https://david-dm.org/UltCombo/uri-path/dev-status.png)](https://david-dm.org/UltCombo/uri-path#info=devDependencies)
 
 Convert relative file system paths into safe URI paths
