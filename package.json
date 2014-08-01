@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "Convert relative file system paths into safe URI paths",
   "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/UltCombo/uri-path.git"
