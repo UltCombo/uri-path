@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/UltCombo/uri-path",
   "devDependencies": {
-    "mocha": "^2.0.1",
-    "should": "^4.2.1"
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
   }
 }
