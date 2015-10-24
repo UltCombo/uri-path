@@ -26,7 +26,7 @@
   "engines": {
     "node": ">= 0.10"
   },
-  "license": "WTFPL",
+  "license": "WTFPL OR MIT",
   "bugs": {
     "url": "https://github.com/UltCombo/uri-path/issues"
   },
